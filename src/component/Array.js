@@ -70,7 +70,7 @@ export const roomlay1 = [
         interior: "0.34 Acre(s).",
         type: "Single Family Homes ",
         note: "",
-        status: "On Hold",
+        status: "Available",
         for: "For Sale",
         style: "Modern",
         description: "Located in Daejang-dong, Bundang, this ultra-luxury residence is situated within an exclusive residential area, offering exceptional privacy and a serene living environment. With excellent access to Bundang's city center and major transportation networks, it provides the perfect balance of quietude and convenience. The expansive lot and sophisticated design stand out, offering spacious living areas ideal for large families or versatile use. This residence is the perfect choice for those seeking both privacy and accessibility in a premium location."
@@ -95,7 +95,7 @@ export const roomlay1 = [
         type: "Apartment",
         note: "Purchased by Mr&Mrs Jungkook Katrina R Hardwick, having an Outstanding balance cost of $50,000, contact support to clear off payment.",
         for: "For Sale",
-        status: "Available",
+        status: "On Hold",
         style: "Penthouse",
         description: "Located near the Han River in the prestigious Cheongdam-dong area, PH129 defines the pinnacle of luxury living. Residents enjoy close proximity to renowned high-end shopping destinations, featuring brands like Chanel and Louis Vuitton, as well as cultural landmarks such as the Galleria and Hyundai Department Store. This prime location ensures that every essential and indulgence is within easy reach, enhancing the exclusivity and convenience of life at PH129. Designed as an elite community, PH129 offers luxurious amenities, providing residents with an unparalleled lifestyle defined by comfort, sophistication, and refinement."
 
