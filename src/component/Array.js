@@ -93,7 +93,7 @@ export const roomlay1 = [
         bath: "4 Full",
         interior: "5,920 sq Ft.",
         type: "Apartment",
-        note: "Purchased by Mr&Mrs Park Jimin Lisa Philips, having an Outstanding balance cost of $50,000, contact support to clear off payment.",
+        note: "Purchased by Mr&Mrs Jungkook Katrina R Hardwick, having an Outstanding balance cost of $50,000, contact support to clear off payment.",
         for: "For Sale",
         status: "Available",
         style: "Penthouse",
